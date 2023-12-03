@@ -38,6 +38,6 @@ cd build
 make
 sudo make install
 
-ldconfig
+sudo ldconfig
 
 snort -V
