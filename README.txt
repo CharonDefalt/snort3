@@ -36,7 +36,7 @@ cd snort3-3.1.28.0
 
 cd build
 make
-make install
+sudo make install
 
 ldconfig
 
